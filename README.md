@@ -1,4 +1,4 @@
-# Labyrinth Concurrent Program
+# Concurrent Labyrinth Search Program
 
 The following is a C++ program to scape from a labyrinth by using multiple threads that counts the minimum number of steps in order to solve it. It was written as part of the INGENIA Systems Engineering subject at Technical University of Madrid.
 
